@@ -5,6 +5,8 @@ This keyboad is inspired by the original atreus keyboard found here: https://atr
 
 This version utilizes a Pro Micro for its controller and has a 62 key layout.
 
+## [Build Guide](build-guide/)
+
 ![Nantucket atreus62](images/nantucket-atreus62.jpg)
 
 ![1976 atreus62](images/1976-atreus62.jpg)
