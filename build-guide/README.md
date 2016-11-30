@@ -10,8 +10,8 @@ Please review all steps carefully before beginning your build.
 |[Pro Micro with headers](https://www.amazon.com/OSOYOO-ATmega32U4-arduino-Leonardo-ATmega328/dp/B012FOV17O)|1|
 |Cherry MX Compatible Switches|62 (Buy a couple of extra)|
 |[Micro USB Cable](https://www.amazon.com/AmazonBasics-Micro-USB-USB-2-0-Cable/dp/B013PVKXTS/)|1|
-|Atreus62 PCB|1|
-|Atreus62 Case|1|
+|[Atreus62 PCB](http://shop.profetkeyboards.com/product/atreus62-pcb)|1|
+|[Atreus62 Case](http://shop.profetkeyboards.com/product/atreus62-case)|1|
 
 ##PCB Soldering
 
