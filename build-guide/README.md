@@ -13,7 +13,7 @@ Please review all steps carefully before beginning your build.
 |[Atreus62 PCB](http://shop.profetkeyboards.com/product/atreus62-pcb)|1|
 |[Atreus62 Case](http://shop.profetkeyboards.com/product/atreus62-case)|1|
 
-##PCB Soldering
+##PCB Assembly
 
 ###Step 1
 Program the Pro Micro with your firmware. [QMK supports the Atreus62.](https://github.com/jackhumbert/qmk_firmware)
