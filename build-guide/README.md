@@ -2,7 +2,7 @@
 
 Please review all steps carefully before beginning your build.
 
-##Required Components
+## Required Components
 
 |Component|Quantity|
 |---------|:--------:|
@@ -13,12 +13,12 @@ Please review all steps carefully before beginning your build.
 |[Atreus62 PCB](http://shop.profetkeyboards.com/product/atreus62-pcb)|1|
 |[Atreus62 Case](http://shop.profetkeyboards.com/product/atreus62-case)|1|
 
-##PCB Assembly
+##  PCB Assembly
 
-###Step 1
+## Step 1
 Program the Pro Micro with your firmware. [QMK supports the Atreus62.](https://github.com/jackhumbert/qmk_firmware)
 
-####For information on compiling QMK please consult QMK documentation.
+#### For information on compiling QMK please consult QMK documentation.
 
 We're going to assume that you already have a .hex file called firmware.hex that you want to flash on to your Pro Micro.
 
@@ -40,13 +40,13 @@ On my machine, this produces the following:
 
 I run Debian, so this will likely be different for you if you use something else. Take a note of the output, we'll need it later.
 
-####If you've never flashed your device before:
+#### If you've never flashed your device before:
 
 If this is your first time flashing the Pro Micro, this part will be easy. On the Pro Micro's first boot, instead of trying to run code (that you haven't uploaded yet!), it just sticks in bootloader mode. So if you only want to flash firmware once and forget about it - good news.
 
 Just plug in your device and it should automatically go into bootloader mode.
 
-####If you have previously flashed your device:
+#### If you have previously flashed your device:
 
 If you've previously flashed your Pro Micro, instead of going straight into bootloader mode it will try to run the code that you uploaded to it. To go into bootloader mode, you need to quickly connect the GND + RST pins twice, just as the device powers on.
 
@@ -78,44 +78,44 @@ avrdude -p atmega32u4 -P /dev/ttyACM0  -c avr109  -U flash:w:Soarer_at2usb_v1.12
 If it says ''device not in sync'' or similar, your device is no longer in bootloader mode. Unplug it, and get it back into bootloader mode like you did in the previous step, and try again.
 
 
-###Step 2
+### Step 2
 ![Step2](../images/build-guide/dllhost_2016-11-21_22-51-45.png)
 
-###Step 3
+### Step 3
 ![Step3](../images/build-guide/dllhost_2016-11-21_22-59-10.png)
 
-###Step 4
+### Step 4
 ![Step4](../images/build-guide/dllhost_2016-11-21_23-00-56.png)
 
-###Step 5
+### Step 5
 ![Step5](../images/build-guide/dllhost_2016-11-21_23-03-54.png)
 
-###Step 6
+### Step 6
 ![Step6](../images/build-guide/dllhost_2016-11-21_23-05-16.png)
 
-###Step 7
+### Step 7
 ![Step7](../images/build-guide/dllhost_2016-11-21_23-06-24.png)
 
-###Step 8
+### Step 8
 ![Step8](../images/build-guide/dllhost_2016-11-21_23-08-04.png)
 
-###Step 9
+### Step 9
 ![Step9](../images/build-guide/dllhost_2016-11-21_23-09-25.png)
 
-###Step 10
+### Step 10
 ![Step10](../images/build-guide/dllhost_2016-11-21_23-10-06.png)
 
-###Step 11
+### Step 11
 ![Step11](../images/build-guide/dllhost_2016-11-21_23-11-00.png)
 
-###Step 12
+### Step 12
 ![Step12](../images/build-guide/dllhost_2016-11-21_23-13-11.png)
 
-###Step 13
+### Step 13
 ![Step13](../images/build-guide/dllhost_2016-11-21_23-14-05.png)
 
-###Step 14
+### Step 14
 ![Step14](../images/build-guide/dllhost_2016-11-21_23-15-18.png)
 
-###Step 15
+### Step 15
 ![Step15](../images/build-guide/dllhost_2016-11-21_23-15-51.png)
