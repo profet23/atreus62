@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 1258)
+    (drawings 1261)
     (tracks 1028)
     (zones 0)
     (modules 126)
@@ -5141,6 +5141,15 @@
       (net 84 "Net-(SW-RST1-Pad2)"))
   )
 
+  (gr_text profet23 (at 148.723858 121.515457) (layer F.SilkS)
+    (effects (font (size 25 25) (thickness 3)))
+  )
+  (gr_text GPLv3 (at 214.509858 75.541457) (layer F.SilkS) (tstamp 5D8FBD50)
+    (effects (font (size 25 25) (thickness 3)))
+  )
+  (gr_text GPLv3 (at 77.857858 78.335457) (layer F.SilkS)
+    (effects (font (size 25 25) (thickness 3)))
+  )
   (gr_text "atreus62 design by profet23 : GPLv3" (at 223.653858 43.791457) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )

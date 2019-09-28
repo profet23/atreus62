@@ -1,8 +1,8 @@
-(kicad_pcb (version 20171130) (host pcbnew "(5.1.4-0)")
+(kicad_pcb (version 20171130) (host pcbnew "(5.1.4)-1")
 
   (general
     (thickness 1.6)
-    (drawings 1257)
+    (drawings 1258)
     (tracks 1028)
     (zones 0)
     (modules 126)
@@ -22,7 +22,7 @@
     (38 B.Mask user hide)
     (39 F.Mask user)
     (40 Dwgs.User user hide)
-    (41 Cmts.User user hide)
+    (41 Cmts.User user)
     (42 Eco1.User user hide)
     (43 Eco2.User user hide)
     (44 Edge.Cuts user)
@@ -5141,6 +5141,9 @@
       (net 84 "Net-(SW-RST1-Pad2)"))
   )
 
+  (gr_text "atreus62 design by profet23 : GPLv3" (at 223.653858 43.791457) (layer F.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
   (gr_text "Made Compatible by NaCly" (at 189.363858 43.791457) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
