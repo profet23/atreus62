@@ -1,3 +1,6 @@
+Adding here since pull request wasn't accpeted yet.
+design modified from: https://github.com/profet23/atreus62 I updated the footprints and traces to be compatible with matias switches.
+
 # atreus62
 The mx_matias branch supports Matias / Alps switches as well as MX switches. 
 
