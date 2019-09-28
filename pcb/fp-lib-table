@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name footprints)(type KiCad)(uri "$(KIPRJMOD)\\footprints.pretty")(options "")(descr ""))
+  (lib (name footprints)(type KiCad)(uri "$(KIPRJMOD)/footprints.pretty")(options "")(descr ""))
+  (lib (name aaa)(type KiCad)(uri "/Users/dschmell/Downloads/atreus62-master 4/pcb/footprints.pretty")(options "")(descr ""))
 )
