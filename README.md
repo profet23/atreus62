@@ -1,16 +1,12 @@
 # atreus62
-Design files for the atreus62 keyboard
+The mx_matias branch supports Matias / Alps switches as well as MX switches.
 
-[Atreus62 components can be purchased from the online store.](http://shop.profetkeyboards.com/category/atreus62)
+Using MIT Licensed footprint https://github.com/ai03-2725/MX_Alps_Hybrid
 
-This keyboad is inspired by the original [atreus keyboard](https://atreus.technomancy.us/).
+Currently using it in my atreus62 matias clicky build. See pictures below of the PCB.
 
-This version utilizes a Pro Micro for its controller and has a 62 key layout.
 
-## [Build Guide](build-guide/)
+![Top of PCB](images/mx_matias_top.jpg)
 
-![Nantucket atreus62](images/nantucket-atreus62.jpg)
+![Bottom of PCB](images/mx_matias_bottom.jpg)
 
-![1976 atreus62](images/1976-atreus62.jpg)
-
-![Midnight atreus62](images/midnight-atreus62.jpg)
