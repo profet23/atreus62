@@ -12,6 +12,7 @@ Please review all steps carefully before beginning your build.
 |[Micro USB Cable](https://www.amazon.com/AmazonBasics-Micro-USB-USB-2-0-Cable/dp/B013PVKXTS/)|1|
 |[Atreus62 PCB](http://shop.profetkeyboards.com/product/atreus62-pcb)|1|
 |[Atreus62 Case](http://shop.profetkeyboards.com/product/atreus62-case)|1|
+|[Omrom B3U-1000P](https://www.mouser.com/ProductDetail/653-B3U-1000P/)|1 (Optional)|
 
 ##  PCB Assembly
 
